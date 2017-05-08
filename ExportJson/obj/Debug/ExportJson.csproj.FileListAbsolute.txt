@@ -1,0 +1,16 @@
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\ExportJson.exe.config
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\ExportJson.exe
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\ExportJson.pdb
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\EntityFramework.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\Photography.Data.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\Photography.Models.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\Photography.Data.pdb
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\Photography.Models.pdb
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\EntityFramework.xml
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\obj\Debug\ExportJson.csprojResolveAssemblyReference.cache
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\obj\Debug\ExportJson.exe
+C:\Users\Dimo\Desktop\Photography-workshop\ExportJson\obj\Debug\ExportJson.pdb

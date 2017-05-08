@@ -1,0 +1,12 @@
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Data\bin\Debug\Photography.Data.dll.config
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Data\bin\Debug\Photography.Data.dll
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Data\bin\Debug\Photography.Data.pdb
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Data\bin\Debug\EntityFramework.dll
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Data\bin\Debug\Photography.Models.dll
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Data\bin\Debug\Photography.Models.pdb
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Data\bin\Debug\EntityFramework.xml
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Data\obj\Debug\Photography.Data.csprojResolveAssemblyReference.cache
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Data\obj\Debug\Photography.Data.dll
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Data\obj\Debug\Photography.Data.pdb

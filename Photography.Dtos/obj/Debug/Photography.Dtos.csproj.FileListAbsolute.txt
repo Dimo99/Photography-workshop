@@ -1,0 +1,5 @@
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Dtos\bin\Debug\Photography.Dtos.dll
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Dtos\bin\Debug\Photography.Dtos.pdb
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Dtos\obj\Debug\Photography.Dtos.csprojResolveAssemblyReference.cache
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Dtos\obj\Debug\Photography.Dtos.dll
+C:\Users\Dimo\Desktop\Photography-workshop\Photography.Dtos\obj\Debug\Photography.Dtos.pdb

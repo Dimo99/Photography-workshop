@@ -1,0 +1,14 @@
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\bin\Debug\ImportDataFromXML.exe.config
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\bin\Debug\ImportDataFromXML.exe
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\bin\Debug\ImportDataFromXML.pdb
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\bin\Debug\EntityFramework.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\bin\Debug\Photography.Data.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\bin\Debug\Photography.Models.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\bin\Debug\Photography.Data.pdb
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\bin\Debug\Photography.Models.pdb
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\bin\Debug\EntityFramework.xml
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\obj\Debug\ImportDataFromXML.csprojResolveAssemblyReference.cache
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\obj\Debug\ImportDataFromXML.exe
+C:\Users\Dimo\Desktop\Photography-workshop\ImportDataFromXML\obj\Debug\ImportDataFromXML.pdb

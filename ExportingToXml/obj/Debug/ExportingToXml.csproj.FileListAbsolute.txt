@@ -1,0 +1,14 @@
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\bin\Debug\ExportingToXml.exe.config
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\bin\Debug\ExportingToXml.exe
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\bin\Debug\ExportingToXml.pdb
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\bin\Debug\EntityFramework.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\bin\Debug\Photography.Data.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\bin\Debug\Photography.Models.dll
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\bin\Debug\Photography.Data.pdb
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\bin\Debug\Photography.Models.pdb
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\bin\Debug\EntityFramework.xml
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\obj\Debug\ExportingToXml.csprojResolveAssemblyReference.cache
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\obj\Debug\ExportingToXml.exe
+C:\Users\Dimo\Desktop\Photography-workshop\ExportingToXml\obj\Debug\ExportingToXml.pdb
